@@ -1,0 +1,10 @@
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\bin\Debug\Restaurant Point of Sale.exe.config
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\bin\Debug\Restaurant Point of Sale.exe
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\bin\Debug\Restaurant Point of Sale.pdb
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant Point of Sale.csproj.AssemblyReference.cache
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant_Point_of_Sale.Form1.resources
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant_Point_of_Sale.Properties.Resources.resources
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant Point of Sale.csproj.GenerateResource.cache
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant Point of Sale.csproj.CoreCompileInputs.cache
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant Point of Sale.exe
+C:\c#\RM\Restaurant Point of Sale\Restaurant Point of Sale\obj\Debug\Restaurant Point of Sale.pdb
